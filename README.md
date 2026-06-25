@@ -109,4 +109,4 @@ Experienced **Senior Software Engineer** and **AI & Cloud Architect** dedicated 
   <a href="https://linkedin.com/in/tuantran1295"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="center">🧑‍💻 Designed with 🖤 by tuantran1295 © 2026</p>
+<p align="center">🧑‍💻 Designed with LOVE by tuantran1295</p>
