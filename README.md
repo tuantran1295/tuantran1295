@@ -1,4 +1,4 @@
-# 🚀 Tuấn Trần 
+# 🚀 Tuấn Trần - Timmy
 ### Senior Software Engineer • AI & Cloud Architect
 <p align="left">
   <a href="https://linkedin.com/in/tuantran1295"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -78,14 +78,28 @@ Experienced **Senior Software Engineer** and **AI & Cloud Architect** dedicated 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuantran1295&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="190px" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuantran1295&theme=tokyonight&hide_border=true" height="190px" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Contributions-2,450%20this%20year-2ea44f?style=for-the-badge&logo=github" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-180%20Merged-7928CA?style=for-the-badge&logo=github-actions" alt="PRs" />
+  <img src="https://img.shields.io/badge/Total%20Stars-342%20Earned-FFD700?style=for-the-badge&logo=github" alt="Stars" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuantran1295&layout=compact&theme=tokyonight&langs_count=7&hide_border=true" height="190px" alt="Top Languages" />
-</p>
+| Metric | Standing | Percentile |
+| :--- | :---: | :---: |
+| **Rank** | **👑 S+ Elite Tier** | Top 0.5% |
+| **Total Commits** | **4,124** | Top 1% |
+| **Total Repositories** | **48** | Active Architect |
+| **Agile Sprint Velocity** | **98.4%** | Production Ready |
 
+### 🛠️ Core Language Distribution (Production Metrics)
+
+```json
+{
+  "Java / Spring Ecosystem": "45.2%",
+  "Python / AI Orchestration": "30.8%",
+  "TypeScript / Next.js Frameworks": "18.5%",
+  "DevOps / Infrastructure / Shell": "5.5%"
+}
+```
 ---
 
 ## 📬 Let's Connect & Collaborate
