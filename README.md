@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type/waving&color=010409&theme=tokyonight&height=220&section=header&text=Tuân%20Trần&subtitle=Senior%20Software%20Engineer%20|%20AI%20&%20Cloud%20Architect&fontSize=42&subFontSize=18&fontColor=ffffff&subFontColor=79c0ff" width="100%" />
+  <img src="https://capsule-render.vercel.app/type/waving&color=010409&theme=tokyonight&height=220&section=header&text=Tu%C3%A2n%20Tr%E1%BA%A7n&subtitle=Senior%20Software%20Engineer%20%7C%20AI%20%26%20Cloud%20Architect&fontSize=40&subFontSize=18&fontColor=ffffff&subFontColor=79c0ff" width="100%" />
 </p>
 
 ## 🌌 About Me
