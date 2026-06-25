@@ -1,6 +1,12 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type/waving&color=010409&theme=tokyonight&height=220&section=header&text=Tu%C3%A2n%20Tr%E1%BA%A7n&subtitle=Senior%20Software%20Engineer%20%7C%20AI%20%26%20Cloud%20Architect&fontSize=40&subFontSize=18&fontColor=ffffff&subFontColor=79c0ff" width="100%" />
+# 🚀 Tuân Trần 
+### Senior Software Engineer • AI & Cloud Architect
+<p align="left">
+  <a href="https://linkedin.com/in/tuantran1295"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-Hanoi,%20Vietnam-009485?style=flat-square" alt="Location" />
 </p>
+
+---
 
 ## 🌌 About Me
 
