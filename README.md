@@ -1,4 +1,4 @@
-# 🚀 Tuân Trần 
+# 🚀 Tuấn Trần 
 ### Senior Software Engineer • AI & Cloud Architect
 <p align="left">
   <a href="https://linkedin.com/in/tuantran1295"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
